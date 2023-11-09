@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **olorundasamuel2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_5uNywyOZ6BKWcUanV4Xe9rbEGL8fjxA/view?usp=sharing](https://drive.google.com/file/d/1_5uNywyOZ6BKWcUanV4Xe9rbEGL8fjxA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_5uNywyOZ6BKWcUanV4Xe9rbEGL8fjxA/view?usp=sharing](https://drive.google.com/file/d/1Hg6tu80OSSxIVkxYG42k0a91PTfeSGNj/view?usp=sharing)
 
 - ⚡ Fun fact **Experience! Makes us a better version of ourselves✌️... For the good 👍or the bad 👎**
 
