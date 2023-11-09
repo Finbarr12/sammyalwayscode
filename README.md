@@ -38,7 +38,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammyalwayscode" alt="sammyalwayscode" /></a> </p>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyalwayscode&" alt="sammyalwayscode" /></span>
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyalwayscode&show_icons=true&locale=en" alt="sammyalwayscode" /></span>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyalwayscode&" alt="sammyalwayscode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyalwayscode&show_icons=true&locale=en" alt="sammyalwayscode" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyalwayscode&show_icons=true&locale=en&layout=compact" alt="sammyalwayscode" /></p>
